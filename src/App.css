@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+a {
+  text-decoration: none;
+  color: black;
+  width: 200px;
+  margin-left: 16px;
+  margin-bottom: 8px;
+  padding: 5px 2px;
+  text-align: left;
+}
+
+a:hover {
+  background-color: #eedbfa;
+  border-radius: 5px;
+}

@@ -1,0 +1,31 @@
+.add-task-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 68px;
+}
+
+.add-task-form {
+    width: 300px;
+    
+}
+
+.error-message {
+    color: red;
+}
+
+.add-task-btn {
+    background-color: #56bcfc;
+    border-radius: 0%;
+    border-style: none;
+    width: 120px;
+    height: 30px;
+}
+
+.add-task-btn:hover {
+    background-color: #56bcfc;
+    border: 1px solid #56bcfc;
+    opacity: .7;
+}
